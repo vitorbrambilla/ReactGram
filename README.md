@@ -1,1 +1,1 @@
-# A client side of ReactGram!
+# The client side of ReactGram!
